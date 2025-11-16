@@ -1,0 +1,4 @@
+*.kt linguist-language=Kotlin
+*.kts linguist-language=Kotlin
+*.gradle linguist-language=Groovy
+README.md text

@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.LnCrawlClient" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorPrimaryContainer">#3700B3</item>
+        <item name="onPrimary">#FFFFFF</item>
+    </style>
+</resources>

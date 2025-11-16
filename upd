@@ -1,0 +1,6 @@
+git init
+git remote add origin git@github.com:AnimussX/lnc-ch-checker-android.git
+git add .
+git commit -m "Import full Android project"
+git branch -M main
+git push -u origin main --force

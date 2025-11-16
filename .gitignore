@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+**/build/
+/local.properties
+/.idea/
+*.iml
+
+# Keystore
+*.jks
+*.keystore
+*.pem
+*.p12
+
+# agconnect config (should be provided via CI secrets)
+/app/agconnect-services.json
+
+# Android Studio
+captures/
+.externalNativeBuild/
+
+# OS files
+.DS_Store
+Thumbs.db
